@@ -7,7 +7,6 @@ public class Main {
 
         //Git flow - система роботи з Гітом
         System.out.printf("New feature development...");
-        System.out.printf("Release new feature");
 
 
         for (int i = 1; i <= 5; i++) {
